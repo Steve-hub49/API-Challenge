@@ -1,4 +1,4 @@
-# HW6_API
+# API
 
 This is my repository link for HW6 What's the Weather Like? material.
 
